@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "connetMe.client", "connetMe.client\connetMe.client.csproj", "{131BF841-A261-455C-B9F1-0B53C0653841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131BF841-A261-455C-B9F1-0B53C0653841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131BF841-A261-455C-B9F1-0B53C0653841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131BF841-A261-455C-B9F1-0B53C0653841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131BF841-A261-455C-B9F1-0B53C0653841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {124BD917-D887-42C8-BC0B-EB4E13FD25A4}
+	EndGlobalSection
+EndGlobal
